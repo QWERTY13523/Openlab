@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    [
+    {
+        "name": "蒋昊强",
+        "id": 2023408276,
+        "score": [
+            {
+                "level": 0,
+                "score": 0
+            },
+            {
+                "level": 1,
+                "score": 0
+            },
+            {
+                "level": 2,
+                "score": 10
+            },
+            {
+                "level": 3,
+                "score": 0
+            }
+        ]
+    },
+    {
+        "name": "莫弘文",
+        "id": 2023657919,
+        "score": [
+            {
+                "level": 0,
+                "score": 0
+            },
+            {
+                "level": 1,
+                "score": 10
+            },
+            {
+                "level": 2,
+                "score": 10
+            },
+            {
+                "level": 3,
+                "score": 10
+            }
+        ]
+    },
+    {
+        "name": "戴子骞",
+        "id": 2023023551,
+        "score": [
+            {
+                "level": 0,
+                "score": 10
+            },
+            {
+                "level": 1,
+                "score": 10
+            },
+            {
+                "level": 2,
+                "score": 10
+            },
+            {
+                "level": 3,
+                "score": 0
+            }
+        ]
+    },
+    {
+        "name": "张鸿煊",
+        "id": 2023947637,
+        "score": [
+            {
+                "level": 0,
+                "score": 10
+            },
+            {
+                "level": 1,
+                "score": 0
+            },
+            {
+                "level": 2,
+                "score": 10
+            },
+            {
+                "level": 3,
+                "score": 10
+            }
+        ]
+    },
+    {
+        "name": "韩智渊",
+        "id": 2023767153,
+        "score": [
+            {
+                "level": 0,
+                "score": 10
+            },
+            {
+                "level": 1,
+                "score": 10
+            },
+            {
+                "level": 2,
+                "score": 0
+            },
+            {
+                "level": 3,
+                "score": 10
+            }
+        ]
+    },
+    {
+        "name": "吴炫明",
+        "id": 2023196611,
+        "score": [
+            {
+                "level": 0,
+                "score": 10
+            },
+            {
+                "level": 1,
+                "score": 10
+            },
+            {
+                "level": 2,
+                "score": 10
+            },
+            {
+                "level": 3,
+                "score": 10
+            }
+        ]
+    },
+    {
+        "name": "蔡浩轩",
+        "id": 2023850769,
+        "score": [
+            {
+                "level": 0,
+                "score": 0
+            },
+            {
+                "level": 1,
+                "score": 0
+            },
+            {
+                "level": 2,
+                "score": 10
+            },
+            {
+                "level": 3,
+                "score": 0
+            }
+        ]
+    },
+    {
+        "name": "唐明杰",
+        "id": 2023763562,
+        "score": [
+            {
+                "level": 0,
+                "score": 10
+            },
+            {
+                "level": 1,
+                "score": 10
+            },
+            {
+                "level": 2,
+                "score": 0
+            },
+            {
+                "level": 3,
+                "score": 10
+            }
+        ]
+    },
+    {
+        "name": "胡凯瑞",
+        "id": 2023472395,
+        "score": [
+            {
+                "level": 0,
+                "score": 0
+            },
+            {
+                "level": 1,
+                "score": 10
+            },
+            {
+                "level": 2,
+                "score": 10
+            },
+            {
+                "level": 3,
+                "score": 10
+            }
+        ]
+    },
+    {
+        "name": "周晓博",
+        "id": 2023083711,
+        "score": [
+            {
+                "level": 0,
+                "score": 10
+            },
+            {
+                "level": 1,
+                "score": 10
+            },
+            {
+                "level": 2,
+                "score": 10
+            },
+            {
+                "level": 3,
+                "score": 10
+            }
+        ]
+    },
+    {
+        "name": "萧熠彤",
+        "id": 2023820183,
+        "score": [
+            {
+                "level": 0,
+                "score": 0
+            },
+            {
+                "level": 1,
+                "score": 10
+            },
+            {
+                "level": 2,
+                "score": 0
+            },
+            {
+                "level": 3,
+                "score": 0
+            }
+        ]
+    },
+    {
+        "name": "高鑫鹏",
+        "id": 2023391575,
+        "score": [
+            {
+                "level": 0,
+                "score": 0
+            },
+            {
+                "level": 1,
+                "score": 0
+            },
+            {
+                "level": 2,
+                "score": 0
+            },
+            {
+                "level": 3,
+                "score": 10
+            }
+        ]
+    },
+    {
+        "name": "方文昊",
+        "id": 2023874434,
+        "score": [
+            {
+                "level": 0,
+                "score": 0
+            },
+            {
+                "level": 1,
+                "score": 10
+            },
+            {
+                "level": 2,
+                "score": 10
+            },
+            {
+                "level": 3,
+                "score": 10
+            }
+        ]
+    },
+    {
+        "name": "白立诚",
+        "id": 2023410515,
+        "score": [
+            {
+                "level": 0,
+                "score": 10
+            },
+            {
+                "level": 1,
+                "score": 10
+            },
+            {
+                "level": 2,
+                "score": 10
+            },
+            {
+                "level": 3,
+                "score": 10
+            }
+        ]
+    },
+    {
+        "name": "李立辉",
+        "id": 2023227529,
+        "score": [
+            {
+                "level": 0,
+                "score": 10
+            },
+            {
+                "level": 1,
+                "score": 10
+            },
+            {
+                "level": 2,
+                "score": 0
+            },
+            {
+                "level": 3,
+                "score": 10
+            }
+        ]
+    },
+    {
+        "name": "龚思远",
+        "id": 2023269055,
+        "score": [
+            {
+                "level": 0,
+                "score": 0
+            },
+            {
+                "level": 1,
+                "score": 10
+            },
+            {
+                "level": 2,
+                "score": 0
+            },
+            {
+                "level": 3,
+                "score": 0
+            }
+        ]
+    },
+    {
+        "name": "田明杰",
+        "id": 2023654691,
+        "score": [
+            {
+                "level": 0,
+                "score": 10
+            },
+            {
+                "level": 1,
+                "score": 10
+            },
+            {
+                "level": 2,
+                "score": 0
+            },
+            {
+                "level": 3,
+                "score": 10
+            }
+        ]
+    },
+    {
+        "name": "武思",
+        "id": 2023328394,
+        "score": [
+            {
+                "level": 0,
+                "score": 10
+            },
+            {
+                "level": 1,
+                "score": 0
+            },
+            {
+                "level": 2,
+                "score": 10
+            },
+            {
+                "level": 3,
+                "score": 0
+            }
+        ]
+    },
+    {
+        "name": "秦皓轩",
+        "id": 2023109374,
+        "score": [
+            {
+                "level": 0,
+                "score": 0
+            },
+            {
+                "level": 1,
+                "score": 0
+            },
+            {
+                "level": 2,
+                "score": 10
+            },
+            {
+                "level": 3,
+                "score": 0
+            }
+        ]
+    },
+    {
+        "name": "沈旭尧",
+        "id": 2023255140,
+        "score": [
+            {
+                "level": 0,
+                "score": 10
+            },
+            {
+                "level": 1,
+                "score": 0
+            },
+            {
+                "level": 2,
+                "score": 0
+            },
+            {
+                "level": 3,
+                "score": 0
+            }
+        ]
+    }
+]
+</body>
+</html>
